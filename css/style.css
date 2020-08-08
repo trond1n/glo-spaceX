@@ -9,7 +9,7 @@ body {
 .header {
   margin: 0 auto;
   display: flex;
-  max-width: 1230px;
+  max-width: 90%;
   justify-content: space-between;
 }
 .header__logo {
