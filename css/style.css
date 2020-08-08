@@ -263,4 +263,7 @@ body {
   .footer__list {
     flex-wrap: wrap;
   }
+  .video {
+    max-height: 320px;
+  }
 }
